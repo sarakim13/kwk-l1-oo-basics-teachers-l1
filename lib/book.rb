@@ -1,4 +1,4 @@
-# book.rb
+yfyyy# book.rb
 # Add you Book class here
 class Book 
  
@@ -13,3 +13,11 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
 end
+initialize("Harry Potter")
+initialize("Lord of the rings")
+
+
+#setter
+# attr_writer
+#getter
+#attr_reader
